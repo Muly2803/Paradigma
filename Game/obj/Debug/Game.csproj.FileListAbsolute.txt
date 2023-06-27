@@ -1,0 +1,187 @@
+D:\Download\Firefox\Proyecto Base 2\Game\bin\Debug\Engine.dll
+D:\Download\Firefox\Proyecto Base 2\Game\bin\Debug\ship.png
+D:\Download\Firefox\Proyecto Base 2\Game\bin\Debug\Game.exe
+D:\Download\Firefox\Proyecto Base 2\Game\bin\Debug\Game.pdb
+D:\Download\Firefox\Proyecto Base 2\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Download\Firefox\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Download\Firefox\Proyecto Base 2\Game\obj\Debug\Game.exe
+D:\Download\Firefox\Proyecto Base 2\Game\obj\Debug\Game.pdb
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\bin\Debug\Engine.dll
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\bin\Debug\Game.exe
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\bin\Debug\Game.pdb
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\obj\Debug\Game.exe
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\obj\Debug\Game.pdb
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\bin\Debug\Textures\BackgroundSpace.png
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos\Proyecto Base 2\Game\bin\Debug\Textures\ship.png
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\bin\Debug\Textures\BackgroundSpace.png
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\bin\Debug\Engine.dll
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\bin\Debug\Textures\ship.png
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\bin\Debug\Game.exe
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\bin\Debug\Game.pdb
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\obj\Debug\Game.exe
+D:\UADE\UADE - 2023-1 - Paradigmas\Proyectos por clase\Proyecto Base 2\Game\obj\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Textures\BackgroundSpace.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Engine.dll
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Textures\ship.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Game.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\obj\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\obj\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Textures\Ship\0.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Textures\Ship\1.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Textures\Ship\2.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 4\Proyecto Base 2\Game\bin\Debug\Textures\Ship\3.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\BackgroundSpace.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Engine.dll
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\ship.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Ship\0.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Ship\1.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Ship\2.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Ship\3.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Game.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\obj\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\obj\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Credits.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Screens\GameOver.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Level.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Screens\MainMenu.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 5\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Win.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\obj\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\obj\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\BackgroundSpace.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Engine.dll
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Credits.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Screens\GameOver.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Level.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Screens\MainMenu.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Win.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\ship.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Ship\0.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Ship\1.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Ship\2.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Ship\3.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Game.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\0.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\1.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\2.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 6 - paso a paso\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\3.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\obj\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\obj\Debug\Game.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\BackgroundSpace.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Engine.dll
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\0.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\1.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\2.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Bullet\Idle\3.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Credits.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Screens\GameOver.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Level.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Screens\MainMenu.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Screens\Win.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\ship.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Ship\0.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Ship\1.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Ship\2.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Textures\Ship\3.png
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Game.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Game.exe
+C:\Users\Consultoria\Dropbox\Facultad\UADE OBJETOS\Uade - Paradigmas 2023-1C-20230408T174048Z-001\Uade - Paradigmas 2023-1C\Proyectos por clase\Proyecto - Clase 7\Proyecto Base 2\Game\bin\Debug\Game.pdb
+D:\paradigma\Proyecto - Clase 7\Game\bin\Debug\Engine.dll
+D:\paradigma\Proyecto - Clase 7\Game\bin\Debug\Game.exe.config
+D:\paradigma\Proyecto - Clase 7\Game\bin\Debug\Game.exe
+D:\paradigma\Proyecto - Clase 7\Game\bin\Debug\Game.pdb
+D:\paradigma\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\paradigma\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+D:\paradigma\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\paradigma\Proyecto - Clase 7\Game\obj\Debug\Game.exe
+D:\paradigma\Proyecto - Clase 7\Game\obj\Debug\Game.pdb
+D:\paradigma\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\Mainmenu.png
+D:\paradigma\Proyecto - Clase 7\Game\bin\Debug\Textures\auto\enemigo.png
+D:\paradigma\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\Gameover.png
+D:\paradigma\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\level.png
+C:\Users\Santi\Desktop\Nueva carpeta\Martes\Proyecto - Clase 7\Game\bin\Debug\Engine.dll
+C:\Users\Santi\Desktop\Nueva carpeta\Martes\Proyecto - Clase 7\Game\bin\Debug\Textures\auto\enemigo.png
+C:\Users\Santi\Desktop\Nueva carpeta\Martes\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\Gameover.png
+C:\Users\Santi\Desktop\Nueva carpeta\Martes\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\level.png
+C:\Users\Santi\Desktop\Nueva carpeta\Martes\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\Mainmenu.png
+C:\Users\Santi\Desktop\Nueva carpeta\Martes\Proyecto - Clase 7\Game\bin\Debug\Game.exe.config
+C:\Users\Santi\Desktop\Nueva carpeta\Martes\Proyecto - Clase 7\Game\bin\Debug\Game.exe
+C:\Users\Santi\Desktop\Nueva carpeta\Martes\Proyecto - Clase 7\Game\bin\Debug\Game.pdb
+C:\Users\Santi\Desktop\Nueva carpeta\Martes\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Santi\Desktop\Nueva carpeta\Martes\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santi\Desktop\Nueva carpeta\Martes\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Desktop\Nueva carpeta\Martes\Proyecto - Clase 7\Game\obj\Debug\Game.exe
+C:\Users\Santi\Desktop\Nueva carpeta\Martes\Proyecto - Clase 7\Game\obj\Debug\Game.pdb
+C:\Users\alu603\Downloads\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\alu603\Downloads\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\alu603\Downloads\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\alu603\Downloads\Proyecto - Clase 7\Game\obj\Debug\Game.exe
+C:\Users\alu603\Downloads\Proyecto - Clase 7\Game\obj\Debug\Game.pdb
+C:\Users\alu603\Downloads\Proyecto - Clase 7\Game\bin\Debug\Engine.dll
+C:\Users\alu603\Downloads\Proyecto - Clase 7\Game\bin\Debug\Textures\auto\enemigo.png
+C:\Users\alu603\Downloads\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\Gameover.png
+C:\Users\alu603\Downloads\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\level.png
+C:\Users\alu603\Downloads\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\Mainmenu.png
+C:\Users\alu603\Downloads\Proyecto - Clase 7\Game\bin\Debug\Game.exe.config
+C:\Users\alu603\Downloads\Proyecto - Clase 7\Game\bin\Debug\Game.exe
+C:\Users\alu603\Downloads\Proyecto - Clase 7\Game\bin\Debug\Game.pdb
+C:\Users\Santi\Downloads\Proyecto - Clase 7\Game\bin\Debug\Engine.dll
+C:\Users\Santi\Downloads\Proyecto - Clase 7\Game\bin\Debug\Textures\auto\enemigo.png
+C:\Users\Santi\Downloads\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\Gameover.png
+C:\Users\Santi\Downloads\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\level.png
+C:\Users\Santi\Downloads\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\Mainmenu.png
+C:\Users\Santi\Downloads\Proyecto - Clase 7\Game\bin\Debug\Game.exe.config
+C:\Users\Santi\Downloads\Proyecto - Clase 7\Game\bin\Debug\Game.exe
+C:\Users\Santi\Downloads\Proyecto - Clase 7\Game\bin\Debug\Game.pdb
+C:\Users\Santi\Downloads\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Santi\Downloads\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santi\Downloads\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Downloads\Proyecto - Clase 7\Game\obj\Debug\Game.exe
+C:\Users\Santi\Downloads\Proyecto - Clase 7\Game\obj\Debug\Game.pdb
+C:\Users\Santi\Desktop\Mmamamama\Proyecto - Clase 7\Game\bin\Debug\Engine.dll
+C:\Users\Santi\Desktop\Mmamamama\Proyecto - Clase 7\Game\bin\Debug\Textures\auto\enemigo.png
+C:\Users\Santi\Desktop\Mmamamama\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\Gameover.png
+C:\Users\Santi\Desktop\Mmamamama\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\level.png
+C:\Users\Santi\Desktop\Mmamamama\Proyecto - Clase 7\Game\bin\Debug\Textures\Screens\Mainmenu.png
+C:\Users\Santi\Desktop\Mmamamama\Proyecto - Clase 7\Game\bin\Debug\Game.exe.config
+C:\Users\Santi\Desktop\Mmamamama\Proyecto - Clase 7\Game\bin\Debug\Game.exe
+C:\Users\Santi\Desktop\Mmamamama\Proyecto - Clase 7\Game\bin\Debug\Game.pdb
+C:\Users\Santi\Desktop\Mmamamama\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Santi\Desktop\Mmamamama\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santi\Desktop\Mmamamama\Proyecto - Clase 7\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Desktop\Mmamamama\Proyecto - Clase 7\Game\obj\Debug\Game.exe
+C:\Users\Santi\Desktop\Mmamamama\Proyecto - Clase 7\Game\obj\Debug\Game.pdb
+D:\paradigma\MarteS\Game\bin\Debug\Engine.dll
+D:\paradigma\MarteS\Game\bin\Debug\Textures\auto\enemigo.png
+D:\paradigma\MarteS\Game\bin\Debug\Textures\Screens\level.png
+D:\paradigma\MarteS\Game\bin\Debug\Game.exe.config
+D:\paradigma\MarteS\Game\bin\Debug\Game.exe
+D:\paradigma\MarteS\Game\bin\Debug\Game.pdb
+D:\paradigma\MarteS\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\paradigma\MarteS\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+D:\paradigma\MarteS\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\paradigma\MarteS\Game\obj\Debug\Game.exe
+D:\paradigma\MarteS\Game\obj\Debug\Game.pdb
+D:\paradigma\MarteS\Game\bin\Debug\Textures\Screens\Gameover.png
+D:\paradigma\MarteS\Game\bin\Debug\Textures\Screens\Mainmenu.png
