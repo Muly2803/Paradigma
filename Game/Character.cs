@@ -36,16 +36,16 @@ namespace Game
             
             _lifeController = new LifeController(100);
             _lifeController.onGetDamage += OnGetDamageHandler;
-            
-
             CreateAnimations();
+            _transform = new Transform(position, scale, angle);
+            _renderer = new Renderer(currentAnimation, scale);
             currentAnimation = idleAnimation;
             _movementSpeed = movementSpeed;
             _rotationSpeed = 100f;
-            
-            
             _minBounds = minBounds;
             _maxBounds = maxBounds;
+
+
         }
 
         private void OnGetDamageHandler()
@@ -87,7 +87,7 @@ namespace Game
         }
 
         public void Render()
-        {
+        { 
 
 
             _renderer.Render(_transform);

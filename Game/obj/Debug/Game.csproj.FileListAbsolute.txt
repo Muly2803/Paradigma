@@ -185,3 +185,18 @@ D:\paradigma\MarteS\Game\obj\Debug\Game.exe
 D:\paradigma\MarteS\Game\obj\Debug\Game.pdb
 D:\paradigma\MarteS\Game\bin\Debug\Textures\Screens\Gameover.png
 D:\paradigma\MarteS\Game\bin\Debug\Textures\Screens\Mainmenu.png
+D:\paradigma\paradigma\Game\bin\Debug\Engine.dll
+D:\paradigma\paradigma\Game\bin\Debug\Textures\auto\Jugador.png
+D:\paradigma\paradigma\Game\bin\Debug\Textures\Screens\Gameover.png
+D:\paradigma\paradigma\Game\bin\Debug\Textures\Screens\level.png
+D:\paradigma\paradigma\Game\bin\Debug\Textures\Screens\Mainmenu.png
+D:\paradigma\paradigma\Game\bin\Debug\Game.exe.config
+D:\paradigma\paradigma\Game\bin\Debug\Game.exe
+D:\paradigma\paradigma\Game\bin\Debug\Game.pdb
+D:\paradigma\paradigma\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\paradigma\paradigma\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+D:\paradigma\paradigma\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\paradigma\paradigma\Game\obj\Debug\Game.exe
+D:\paradigma\paradigma\Game\obj\Debug\Game.pdb
+D:\paradigma\paradigma\Game\bin\Debug\Textures\auto\Enemigos\Enemigo horizontal.png
+D:\paradigma\paradigma\Game\bin\Debug\Textures\auto\Enemigos\Enemigo vertical.png

@@ -60,10 +60,15 @@
     <Content Include="Engine.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Textures\auto\enemigo.png">
+    <Content Include="Textures\auto\Enemigos\Enemigo horizontal.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Textures\auto\Jugador.png" />
+    <Content Include="Textures\auto\Enemigos\Enemigo vertical.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Textures\auto\Jugador.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Textures\Screens\Gameover.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
